@@ -17,7 +17,7 @@ Para llevar a cabo tu cometido dispondrás del lenguaje de programación
 
 ### Plazo
 
-Se espera que hayas finalizado tu misión antes del día **25/10/2020 a
+Se espera que hayas finalizado tu misión antes del día **27/10/2020 a
 las 24:00**. Cualquier retraso en la finalización de tu cometido será
 penalizado de acuerdo con el reglamento de la asignatura.
 
