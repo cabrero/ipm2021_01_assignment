@@ -514,3 +514,22 @@ Instalar las librerías en el virtual environment,
 
 Y ejecutar tu código con una configuración lo más parecida posible a
 la del profesor.
+
+
+## Apéndice: El servidor
+
+El código del servidor está en el repositorio:
+[https://github.com/cabrero/ipm2021_01_server](https://github.com/cabrero/ipm2021_01_server)
+
+Puedes instalarlo a través del fichero `requirements.txt` o mediante
+`pip`.
+
+Por ejemplo, puedes instalarlo en tu cuenta de usuario:
+
+```
+$ pip install --user https://github.com/cabrero/ipm2021_01_server/archive/master.zip
+```
+
+> Atención: No olvides incluir en el PATH el directorio donde se
+> instalan los ejecutables
+> [https://pip.pypa.io/en/stable/user_guide/#user-installs](https://pip.pypa.io/en/stable/user_guide/#user-installs)
