@@ -516,7 +516,7 @@ Y ejecutar tu código con una configuración lo más parecida posible a
 la del profesor.
 
 
-## Apéndice: El servidor
+## Apéndice: El servidor y las librerías
 
 El código del servidor está en el repositorio:
 [https://github.com/cabrero/ipm2021_01_server](https://github.com/cabrero/ipm2021_01_server)
@@ -533,3 +533,8 @@ $ pip install --user https://github.com/cabrero/ipm2021_01_server/archive/master
 > Atención: No olvides incluir en el PATH el directorio donde se
 > instalan los ejecutables
 > [https://pip.pypa.io/en/stable/user_guide/#user-installs](https://pip.pypa.io/en/stable/user_guide/#user-installs)
+
+El mismo razonamiento es válido para las librerías adicionales. Las urls serían:
+
+  * [https://github.com/cabrero/p1libs.git](https://github.com/cabrero/p1libs.git)
+  * https://github.com/cabrero/p1libs/archive/master.zip
