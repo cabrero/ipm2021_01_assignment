@@ -61,7 +61,7 @@ introducción a la teoría musical usada en el api del servidor.
 La primera indicación es que se basa en la música tradicional
 occidental, en la que una octava se divide en 12 semitonos iguales.
 
-> Recuerda: Ya sabes lo que es una octava (doble/mitad frecuencía) de
+> Recuerda: Ya sabes lo que es una octava (doble/mitad frecuencia) de
 > tus misiones con la teoría de la señal.
 
 Esto da lugar a que, con este sistema, en una octava tenemos doce
@@ -99,7 +99,7 @@ dos notas cualesquiera. Por ejemplo: do - fa, 2 tonos + 1 semitono.
     
 Cada una de las posibles _distancias_ entre dos notas recibe un
 nombre, y todos ellos reciben el nombre genérico de **intervalo**. Los
-nombres de los intervalos, sus abreviaturas y distanticas son los
+nombres de los intervalos, sus abreviaturas y distancias son los
 siguientes:
 
   * Segunda menor (2m): 1ST
@@ -144,7 +144,7 @@ unos apuntes muy valiosos:
     categorías. El nombre de la categorías es el nombre de los
     intervalos. En resumen, una lista de listas.
     
-  * Si pensamos en las notas musicales almacenadas en un _arrray_, o
+  * Si pensamos en las notas musicales almacenadas en un _array_, o
     lista en python, en el mismo orden en que nos las presentaron en
     el background, vemos que la nota en la posición `i` esta separada
     por un semitono de la nota en la posición `i+1` y de la nota en la
@@ -309,7 +309,7 @@ asegurarte de haber alcanzado las siguientes condiciones
 
 Para llevar a cabo este cometido tienes que escribir una prueba _e2e_
 (_end to end_) para el escenario en que se muestra un intervalo de
-tercera mayor ascendete (3M asc).
+tercera mayor ascendente (3M asc).
 
 El escenario concreto varía en función del diseño de la interface. Por
 ejemplo si se muestran todos los intervalos a un tiempo, el escenario
@@ -521,8 +521,8 @@ la del profesor.
 El código del servidor está en el repositorio:
 [https://github.com/cabrero/ipm2021_01_server](https://github.com/cabrero/ipm2021_01_server)
 
-Puedes instalarlo a través del fichero `requirements.txt` o mediante
-`pip`.
+Puedes instalarlo a través del fichero `requirements.txt`, mediante
+`pip` o cualquier medio que consideres.
 
 Por ejemplo, puedes instalarlo en tu cuenta de usuario:
 
